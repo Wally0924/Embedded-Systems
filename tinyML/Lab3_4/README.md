@@ -7,9 +7,9 @@
 ### you need to complete the following table
 | Method | Time(us) | Model size | Arena Size |
 |--------------------|----------|------------|------------|
-| remove layer float | - | - | - |
-| remove layer quant | - | - | - |
-| remove layer quant + CMSIS | - | - | - |
+| remove layer float | - | 170056 bytes | - |
+| remove layer quant | - | 56480 bytes | - |
+| remove layer quant + CMSIS | - | 56480 bytes | - |
 | origin float | - | 318332 bytes | - |
 | origin quant | - | 95784 bytes | - |
 | origin quant + CMSIS | 393667 us | 95784 bytes | 55108 bytes |
