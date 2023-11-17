@@ -15,7 +15,7 @@
 | origin quant + CMSIS | 393667 us | 95784 bytes | 55108 bytes |
 | add layer float | - | 328272 bytes | - |
 | add layer quant | - | 99280 bytes | - |
-| add layer quant + CMSIS | - | - | - |
+| add layer quant + CMSIS | - | 99280 bytes | - |
 
 
 
