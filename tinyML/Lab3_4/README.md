@@ -8,7 +8,7 @@
 | Method | Time(us) | Model size | Arena Size |
 |--------------------|----------|------------|------------|
 | remove layer float | 3852521 us | 170056 bytes | 201040 bytes |
-| remove layer quant | - | 56480 bytes | - |
+| remove layer quant | 3891198 us | 56480 bytes | 53780 bytes |
 | remove layer quant + CMSIS | 3853592 us | 56480 bytes | 198912 bytes |
 | origin float | 4636166 us | 318332 bytes | 201696 bytes |
 | origin quant | 4672189 us | 95784 bytes | 54452 bytes |
