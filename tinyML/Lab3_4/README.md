@@ -9,7 +9,7 @@
 |--------------------|----------|------------|------------|
 | remove layer float | 3852521 us | 170056 bytes | 201040 bytes |
 | remove layer quant | 3891198 us | 56480 bytes | 53780 bytes |
-| remove layer quant + CMSIS | 3853592 us | 56480 bytes | 198912 bytes |
+| remove layer quant + CMSIS | 326236 us | 56480 bytes | 54436 bytes |
 | origin float | 4636166 us | 318332 bytes | 201696 bytes |
 | origin quant | 4672189 us | 95784 bytes | 54452 bytes |
 | origin quant + CMSIS | 393667 us | 95784 bytes | 55108 bytes |
